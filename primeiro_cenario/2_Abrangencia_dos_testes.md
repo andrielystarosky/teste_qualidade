@@ -36,7 +36,10 @@
 
 ## Priorização de testes
 > A prioridade dos testes podem ser divididas em:
-- Altíssima: são funcionalidades essenciais para o funcionamento do sistema (normalmente requisitos não funcionais; possivelmente erros que estão impedindo a realização de alguma rotina; questões relacionadas a segurança).
-- Alta: são funcionalidades importantes para o sistema/usuário, mas não são vitais para tal (normalmente requisitos funcionais importantes para o funcionamento de rotinas essenciais).
-- Média: são funcionalidades importantes, mas o sistema segue funcionando sem elas (normalmente melhorias ou questões relacionadas a usabilidade, questões com soluções paliativas).
-- Baixa: são funcionalidades ou até mesmo melhorias não tão importantes, mas que aprimoram o sistema (normalmente melhorias internas, restritas a ambientes de qualidade e desenvolvimento).
+
+| Nível de Prioridade | Definição |
+| ---                 | ---       |
+| Altíssima           | são funcionalidades essenciais para o funcionamento do sistema (normalmente requisitos não funcionais; possivelmente erros que estão impedindo a realização de alguma rotina; questões relacionadas a segurança) |
+| Alta                | são funcionalidades importantes para o sistema/usuário, mas não são vitais para tal (normalmente requisitos funcionais importantes para o funcionamento de rotinas essenciais)|
+| Média               | são funcionalidades importantes, mas o sistema segue funcionando sem elas (normalmente melhorias ou questões relacionadas a usabilidade, questões com soluções paliativas) |
+| Baixa              | são funcionalidades ou até mesmo melhorias não tão importantes, mas que aprimoram o sistema (normalmente melhorias internas, restritas a ambientes de qualidade e desenvolvimento) |
