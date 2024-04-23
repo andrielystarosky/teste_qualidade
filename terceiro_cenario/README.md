@@ -5,3 +5,5 @@ Atualmente, o cliente possui 38 anúncios com a situação "Pausado", e ele rela
 
 ---
 Para o caso acima, descreva quais seriam os passos para analise e identificação do problema tendo em vista a documentação do próprio ML. Visto que não possui acesso ao painel seller do cliente e nem ao painel do mesmo no ERP Magazord, quais seriam as possíveis hipóteses do erro.
+
+![Imagem anúncio](/img/1.png)
