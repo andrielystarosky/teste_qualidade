@@ -11,7 +11,7 @@
 - Durante a análise, devem ser separados pontos de teste, tendo em vista funcionalidade e usabilidade das pré-condições de uso (além de uma análise crítica de outras possíveis formas de uso das rotinas previstas)
 
 ## Mapeamento de requisitos
-- Tendo como base os requisitos elaborados no início do projeto, devem ser associados pontos de testes. É de exrema importância que cada requisito possua ao menos um caso de teste associado.
+- Tendo como base os requisitos elaborados no início do projeto, devem ser associados pontos de testes. É de extrema importância que cada requisito possua ao menos um caso de teste associado.
 - Utilizando ferramentas específicas (próximo tópico), os casos de teste devem possuir códigos (identificadores únicos) que são associados ao código do caso de teste, de forma a facilitar a visualização e busca dos cenários de teste.
 
 ## Utilização de Ferramentas
