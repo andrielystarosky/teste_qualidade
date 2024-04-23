@@ -35,7 +35,7 @@
 - Quanto a teste de carga, deve-se se simular uma quantidade grande de usuários executando diversas ações simultaneamente, bem como diversos usuários realizando a mesma ação. Isso afim de garantir estabilidade do serviço mesmo diante de uma quantidade de acessos não comum (como em dias promocionais, por exemplo).
 
 ## Priorização de testes
-> A prioridade dos testes podem ser dividida em:
+> A prioridade dos testes pode ser dividida em:
 
 | Nível de Prioridade | Definição |
 | ---                 | ---       |
