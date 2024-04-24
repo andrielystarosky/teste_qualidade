@@ -10,3 +10,5 @@ Endereço (com campos para rua, cidade, estado e CEP)
 Houve alterações nos campos mencionados acima no cadastro do cliente, quais testes você faria para validar que o(s) campo(s) esta(ão) funcionando conforme esperado?
 
 ![Imagem - cadastro de usuário](/img/2.cen4_AlterarPessoa.png)
+
+- [Resposta](/4_cenario/1_teste_cadastro.md)
