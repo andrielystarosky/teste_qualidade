@@ -1,4 +1,4 @@
-# Teste para vaga de Analista de Qualidade no Magazord.com.br
+# Teste - Analista de Qualidade 
 
 ## [1° Cenário](/1_cenario/README.md)
  ### 📝 [1. Documentação e materiais de apoio](/1_cenario/1_Documentação_e_materiais_de_apoio.md)
